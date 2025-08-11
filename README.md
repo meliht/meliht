@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me
-Cybersecurity researcher, entrepreneur, and offensive security expert with over 15 years of experience in penetration testing, vulnerability intelligence, and application security.  
-I specialize in AI-driven offensive security, VoIP attack simulation, and advanced penetration testing techniques.  
-I’ve built tools used globally in both industry and academia, contributed to the CVE Program, and presented at DEFCON, BlackHat, and other international conferences.
+Cybersecurity researcher, entrepreneur, and offensive security expert with 15+ years of experience delivering advanced penetration testing, vulnerability intelligence, and application security solutions.  
+I specialize in AI-driven offensive security, VoIP/SIP attack simulation, and advanced red team operations.  
+I have developed security tools adopted by global enterprises, academia, and the open-source community; contributed to the CVE Program; and delivered talks at DEFCON, BlackHat, Offzone, and other leading security conferences worldwide.
 
 ---
 
