@@ -76,6 +76,10 @@ Automation scripts and frameworks for penetration testing workflows.
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melihitas)
 - [Twitter/X](https://x.com/artinscience)
+- [ORCID](https://orcid.org/0000-0003-1797-2108)
+- [Google Scholar](https://scholar.google.gr/citations?user=Ss6rwWkAAAAJ&hl=en)
+- [Crunchbase](https://www.crunchbase.com/person/ismail-melih-tas)
 - [VulnHero](https://vulnhero.com)
 - [Siber Ninja](https://siberninja.com)
 - [Mr.SIP Pro](https://mrsip.pro)
+
