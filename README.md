@@ -23,6 +23,14 @@ I’ve built tools used globally in both industry and academia, contributed to t
 
 ---
 
+## 📢 Free Resource – Always Free from VulnHero
+**Always Free: Monthly CVE & Exploit Insights**  
+Stay informed with monthly updates on vulnerabilities, exploits, and security trends — no registration required.  
+
+[**📩 Subscribe Here**](https://vulnintel.vulnhero.com/#footer) — Get free monthly insights on vulnerability & exploit intelligence, trends, and tips.
+
+---
+
 ## 🏆 Featured Projects
 ### [Mr.SIP](https://github.com/meliht/Mr.SIP)
 SIP Security Assessment Framework for VoIP Pentesters. Presented at DEFCON, BlackHat & Offzone.  
