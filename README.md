@@ -45,7 +45,7 @@ Automation scripts and frameworks for penetration testing workflows.
 
 ---
 
-## 📚 Publications & Research
+## 📚 Publications & Research (SCI-Indexed)
 - **(Submitted)** *A Deep Dive into the Anatomy of Real-World Caller-ID Spoofing Attacks in Live Financial Call Centers* – SCI-Indexed Academic Paper, 2024.
 - **Blockchain-Based Caller-ID Authentication (BBCA)** – *IEEE Access*, 2024. [DOI](https://doi.org/10.1109/ACCESS.2024.3398352)
 - **Efficient Mitigation Against SIP-Based DRDoS Attack** – *MDPI Applied Sciences*, 2023. [DOI](https://doi.org/10.3390/app13031928)
@@ -55,13 +55,23 @@ Automation scripts and frameworks for penetration testing workflows.
 ---
 
 ## 🎤 Selected Talks & Conferences
-- **BlackHat MEA 2024** – *Optimizing Port Scanning at Scale with The distribRuted Framework*
-- **BlackHat Europe 2024 Arsenal** – *DistribRuted – Distributed Attack Framework (Botnet-as-a-Service)*
-- **DEFCON 32 DemoLabs (2024)** – *DistribRuted – Distributed Attack Framework (Botnet-as-a-Service)*
+## 🎤 Talks & Conferences (Full List)
+- **BlackHat MEA 2024 Briefing** – *Optimizing Port Scanning at Scale with The distribRuted Framework* – Riyadh.
+- **BlackHat MEA 2024 Arsenal** – *DistribRuted – Distributed Attack Framework (Botnet-as-a-Service)* – Riyadh. [GitHub](https://github.com/distribRuted/framework)
+- **BlackHat Europe 2024 Arsenal** – *DistribRuted – Distributed Attack Framework (Botnet-as-a-Service)* – London. [GitHub](https://github.com/distribRuted/framework)
+- **DEFCON 32 DemoLabs (2024)** – *DistribRuted – Distributed Attack Framework (Botnet-as-a-Service)* – Las Vegas. [GitHub](https://github.com/distribRuted/framework)
+- **Securi-Tay 2023 Opening Keynote** – *My Journey with Mr.SIP Pro* – Dundee. [Video](https://www.youtube.com/watch?v=-qNJNzezrWI&t=900s) | [Website](https://www.mrsip.pro/)
 - **BlackHat USA 2023 Arsenal** – *AppSecLens: AI-Driven Adaptive Application Risk Ranking*
-- **BlackHat MEA 2022 Briefing** – *Breaking VoIP Networks and Applications using Mr.SIP Pro*
-- **DEFCON 28 Main Stage (2020)** – *Practical SIP Penetration Testing Using Mr.SIP*
-- **OffZone 2019** – *Mr.SIP – SIP-Based Offensive Security Framework*
+- **BlackHat MEA 2022 Briefing** – *Breaking VoIP Networks and Applications using Mr.SIP Pro* – Riyadh.
+- **DEFCON 28 Main Stage (2020)** – *Practical SIP Penetration Testing Using Mr.SIP* – [Video](https://www.youtube.com/watch?v=daWbrq_5uuo)
+- **OffZone 2019** – *Mr.SIP – SIP-Based Offensive Security Framework* – Moscow.
+- **BlackHat Asia 2023 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – Singapore.
+- **BlackHat EU 2022 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – London.
+- **BlackHat MEA 2022 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – Riyadh.
+- **BlackHat EU 2020 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – London.
+- **BlackHat EU 2019 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – London.
+- **BlackHat USA 2019 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – Las Vegas.
+- **BlackHat Asia 2019 Arsenal** – *Mr.SIP – SIP-Based Offensive Security Framework* – Singapore.
 
 ---
 
